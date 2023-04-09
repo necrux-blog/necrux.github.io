@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "GWC"
+title: "Girls Who Code"
 permalink: /gwc/
 author_profile: true
 redirect_from:
@@ -9,6 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Girls Who Code
-======
 This page is under construction.

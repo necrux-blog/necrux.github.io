@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Wisdom"
-permalink: /wisom/
+title: "Words of Wisdom from a Systems Engineer"
+permalink: /wisdom/
 author_profile: true
 redirect_from:
   - /wisdom
@@ -9,6 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Words of Wisdom
-======
 This page is under construction.
