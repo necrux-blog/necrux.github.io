@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Girls Who Code
+Words of Wisdom
 ======
 This page is under construction.
