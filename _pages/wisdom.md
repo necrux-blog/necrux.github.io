@@ -25,3 +25,8 @@ Always remember that everyone faces their own problems and shortcomings. Often t
 ---
 ---
 Often times people conflate disagreement and conflict. While these are obviously not the same thing, it is all too common for someone to feel slighted if others disagree with a proposed approach/solution. This is an opportunity for one or both parties to learn and should not be taken personally.
+
+"Information is cheap."
+---
+---
+In our modern world information is abundant and readily available. Do not concern yourself with memorization and instead focus on how things work.
